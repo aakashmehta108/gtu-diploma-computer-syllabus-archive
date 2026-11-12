@@ -1,0 +1,295 @@
+code,name,category,eff_from,sem,L,T,P,PBL,credit,E,M,I,V,total
+340001,Entrepreneurship Development,Compulsory,2011-12,4,3,0,0,NA,3,70,30,0,0,100
+1990002,Integrated Personality Development Course,Elective,2021,2,4,0,0,NA,4,70,30,30,20,150
+DI01000011,Induction Programme with Essence of Indian Knowledge,Mandatory Non-Credit Courses – Audit Course,2024-25,1,0,0,0,NA,0,0,0,0,0,0
+DI01000021,Mathematics-I,Basic Science Courses,2024-25,1,3,1,0,NA,4,70,30,0,0,100
+DI01000031,Communication Skills in English,"Humanities and Social Science, including Management Courses",2024-25,1,2,0,2,NA,3,70,30,20,30,150
+DI01000041,Sports and Yoga,Mandatory Non-Credit Courses – Audit Course,2024-25,1,0,0,2,NA,0,0,0,50,0,50
+DI01000061,Modern Physics,Basic Science Courses,2024-25,1,3,0,2,NA,4,70,30,20,30,150
+DI01000131,Computer Programming Fundamentals,Professional Core Courses,2024-25,1,3,0,2,NA,4,70,30,20,30,150
+DI01000141,Computer Basics and Static Web Page Designing,Engineering Science Courses,2024-25,1,0,1,4,NA,3,0,0,20,30,50
+DI01000151,Basics of Electronics,Engineering Science Courses,2024-25,1,2,0,2,NA,3,70,30,20,30,150
+DI01000071,Engineering Chemistry,Basic Science Courses,2024-25,2,3,0,2,NA,4,70,30,20,30,150
+DI02000011,Applied Mathematics,Basic Science Courses,2024-25,2,3,1,0,NA,4,70,30,0,0,100
+DI02000051,Environmental Sustainability,Engineering Science Courses,2024-25,2,2,0,0,NA,2,70,30,0,0,100
+DI02000061,Indian Constitution,Mandatory Non-Credit Courses – Audit Course,2024-25,2,2,0,0,NA,0,0,0,50,0,50
+DI02000091,Electronics Workshop and Practice,Engineering Science Courses,2024-25,2,0,2,2,NA,3,0,0,20,30,50
+DI02000101,Scripting Language,Professional Core Courses,2024-25,2,3,0,2,NA,4,70,30,20,30,150
+DI02000131,Contributor Personality Development,"Humanities and Social Science, including Management Courses",2024-25,2,2,0,2,NA,3,70,30,20,30,150
+DI02000141,Integrated Personality Development Course,"Humanities and Social Science, including Management Courses",2024-25,2,2,0,2,NA,3,70,30,20,30,150
+DI02000151,Essence of Indian Knowledge and Tradition,"Humanities and Social Science, including Management Courses",2024-25,2,3,0,0,NA,3,70,30,20,30,150
+DI01C00021,Mathematics-I,Basic Science Courses,2025-26,1,3,1,0,NA,4,70,30,0,0,100
+DI01C00031,Communication Skills in English,"Humanities and Social Science, including Management Courses",2025-26,1,2,0,2,NA,3,70,30,20,30,150
+DI01C00041,Sports and Yoga,Mandatory Non-Credit Courses – Audit Course,2025-26,1,0,0,2,NA,0,0,0,50,0,50
+DI01C00061,Modern Physics,Basic Science Courses,2025-26,1,3,0,2,NA,4,70,30,20,30,150
+DI01C00131,Computer Programming Fundamentals,Professional Core Courses,2025-26,1,3,0,2,NA,4,70,30,20,30,150
+DI01C00141,Computer Basics and Static Web Page Designing,Engineering Science Courses,2025-26,1,0,1,4,NA,3,0,0,20,30,50
+DI01C00151,Basics of Electronics,Engineering Science Courses,2025-26,1,2,0,2,NA,3,70,30,20,30,150
+DI01C00071,Engineering Chemistry,Basic Science Courses,2025-26,2,3,0,2,NA,4,70,30,20,30,150
+DI02C00011,Applied Mathematics,Basic Science Courses,2025-26,2,3,1,0,NA,4,70,30,0,0,100
+DI02C00051,Environmental Sustainability,Engineering Science Courses,2025-26,2,2,0,0,NA,2,70,30,0,0,100
+DI02C00061,Indian Constitution,Mandatory Non-Credit Courses – Audit Course,2025-26,2,2,0,0,NA,0,0,0,50,0,50
+DI02C00091,Electronics Workshop and Practice,Engineering Science Courses,2025-26,2,0,2,2,NA,3,0,0,20,30,50
+DI02C00101,Scripting Language,Professional Core Courses,2025-26,2,3,0,2,NA,4,70,30,20,30,150
+DI02C00131,Contributor Personality Development,"Humanities and Social Science, including Management Courses",2025-26,2,2,0,2,NA,3,70,30,20,30,150
+DI02C00141,Integrated Personality Development Course,"Humanities and Social Science, including Management Courses",2025-26,2,2,0,2,NA,3,70,30,20,30,150
+DI02C00151,Essence of Indian Knowledge and Tradition,"Humanities and Social Science, including Management Courses",2025-26,2,3,0,0,NA,3,70,30,20,30,150
+DI03000011,Digital Electronics Fundamentals,Engineering Science Courses,2025-26,3,2,0,2,NA,3,70,30,20,30,150
+DI03000021,Data Structures,Professional Core Courses,2025-26,3,3,0,2,NA,4,70,30,20,30,150
+DI03000031,Relational Database Management System,Professional Core Courses,2025-26,3,3,0,2,NA,4,70,30,20,30,150
+DI03000041,Fundamentals Operating System,Professional Core Courses,2025-26,3,3,0,2,NA,4,70,30,20,30,150
+DI03000051,Computer Networks,Professional Core Courses,2025-26,3,3,0,2,NA,4,70,30,20,30,150
+DI03000061,Responsive Web Page Design,Professional Core Courses,2025-26,3,0,1,4,NA,3,0,0,20,30,50
+DI04000011,Software Engineering,Professional Core Courses,2025-26,4,3,0,2,NA,4,70,30,20,30,150
+DI04000021,Object Oriented Programming-Java,Professional Core Courses,2025-26,4,3,0,2,NA,4,70,30,20,30,150
+DI04000031,Introduction to No SQL,Professional Core Courses,2025-26,4,0,1,4,NA,3,0,0,20,30,50
+DI04000041,Cloud Computing,Professional Elective - I,2025-26,4,3,0,2,NA,4,70,30,20,30,150
+DI04000051,Multimedia Technologies,Professional Elective - I,2025-26,4,3,0,2,NA,4,70,30,20,30,150
+DI04000061,Introduction Machine Learning,Professional Elective - II,2025-26,4,3,0,2,NA,4,70,30,20,30,150
+DI04000071,Introduction to Data Analysis,Professional Elective - II,2025-26,4,3,0,2,NA,4,70,30,20,30,150
+DI04000081,Entrepreneurship & Start-up,Multidisciplinary Open Professional Electives Courses,2025-26,4,3,0,0,NA,3,70,30,0,0,100
+DI04000091,Digital Marketing & Ecommerce,Multidisciplinary Open Professional Electives Courses,2025-26,4,3,0,0,NA,3,70,30,0,0,100
+DI04000101,Cyber Security Awareness & Cyber Laws,Multidisciplinary Open Professional Electives Courses,2025-26,4,3,0,0,NA,3,70,30,0,0,100
+DI04000301,Advance Computer Network,Professional Elective - I,2025-26,4,3,0,2,NA,4,70,30,20,30,150
+DI04000311,Fundamentals of Artificial Intelligence,Professional Elective - II,2025-26,4,3,0,2,NA,4,70,30,20,30,150
+DI04007011,Introduction to Web Development,Professional Core Courses,2025-26,4,0,2,4,NA,4,0,0,20,30,50
+DI05000011,Skill - Based Training,Skilling-Based Course/Training,2026-27,5,0,0,4,NA,2,0,0,30,70,100
+DI05000091,Web Development using Python,Professional Elective - III,2026-27,5,3,0,2,NA,4,70,30,20,30,150
+DI05000101,Advance Java Programming,Professional Elective - III,2026-27,5,3,0,2,NA,4,70,30,20,30,150
+DI05000111,Software Testing,Professional Elective - III,2026-27,5,3,0,2,NA,4,70,30,20,30,150
+DI05000121,Application Design & Development using Vibe Coding,Professional Elective - IV,2026-27,5,0,2,4,NA,4,0,0,20,30,50
+DI05000131,Client - Side Scripting Language (TypeScript),Professional Elective - IV,2026-27,5,0,2,4,NA,4,0,0,20,30,50
+DI05000141,Mobile Application Development,Professional Elective - IV,2026-27,5,0,2,4,NA,4,0,0,20,30,50
+DI05000151,Introduction to Internet of Things,Multidisciplinary Open Professional Electives Courses,2026-27,5,2,0,2,NA,3,70,30,20,30,150
+DI05000161,Business Analytics,Multidisciplinary Open Professional Electives Courses,2026-27,5,2,0,2,NA,3,70,30,20,30,150
+DI05000341,Minor Project,Project Work,2026-27,5,0,0,6,NA,3,0,0,50,50,100
+DI05007011,Computer Hardware Architecture and System Maintenance,Professional Core Courses,2026-27,5,3,0,2,NA,4,70,30,20,30,150
+DI05007021,Information Security,Professional Core Courses,2026-27,5,3,0,2,NA,4,70,30,20,30,150
+C300001,Basic Mathematics,,7/1/2013,1,2,2,0,NA,4,70,30,0,0,100
+C300002,English,,7/1/2013,1,3,2,0,NA,5,70,30,30,20,150
+C300003,Environment Conservation & Hazard Management,,7/1/2013,1,4,0,0,NA,4,70,30,0,0,100
+C310702,Fundamental Of Digital Electronics,,7/1/2013,1,3,0,2,NA,5,70,30,30,20,150
+C300005,BASIC PHYSICS (GROUP-2),Compulsory,7/1/2013,2,3,0,2,NA,5,70,30,30,20,150
+C320002,ADVANCED MATHEMATICS (GROUP-1),Compulsory,7/1/2013,2,2,2,0,NA,4,70,30,0,0,100
+C320702,Advanced Computer Programming,Compulsory,7/1/2013,2,3,0,4,NA,7,70,30,60,40,200
+310001,Advertising And Communication,,Aug-2011,1,3,0,0,NA,3,70,30,0,0,100
+310002,Applied Science- I [physics],,Aug-2011,1,2,0,0,NA,2,70,30,0,0,100
+310004,Art & Design,,Aug-2011,1,2,0,6,NA,8,70,30,50,0,150
+310006,Building Material - I,,Aug-2011,1,4,0,0,NA,4,70,30,0,0,100
+310007,Business Communication I,,Aug-2011,1,3,0,2,NA,5,70,30,50,0,150
+310008,Business Mathematics,,Aug-2011,1,4,0,2,NA,6,70,30,50,0,150
+310009,Business Organization And Management,,Aug-2011,1,4,0,2,NA,6,70,30,50,0,150
+310010,Ceramic Materials,,Aug-2011,1,3,0,2,NA,5,70,30,50,0,150
+310011,Clothing Construction - I,,Aug-2011,1,1,0,6,NA,7,70,30,50,0,150
+310012,Colour,,Aug-2011,1,1,0,6,NA,7,70,30,50,0,150
+310014,Communication Skills - I,,Aug-2011,1,4,0,0,NA,4,70,30,0,0,100
+310018,Computer Applications,,Aug-2011,1,0,0,4,NA,4,0,0,100,0,100
+310019,Computer - I,,Aug-2011,1,2,0,4,NA,6,70,30,50,0,150
+310020,Cooking Methods,,Aug-2011,1,2,0,6,NA,8,70,30,50,0,150
+310021,Drawing & Painting - I,,Aug-2011,1,0,0,6,NA,6,0,0,100,0,100
+310022,Drawing Sketching & Painting - I,,Aug-2011,1,2,0,8,NA,6,70,30,50,0,150
+310023,Electronic Materials & Components,,Aug-2011,1,3,0,0,NA,3,70,30,0,0,100
+310024,Elementary Clothing & Textiles,,Aug-2011,1,4,0,4,NA,8,70,30,50,0,150
+310025,Elementary Home Management,,Aug-2011,1,4,0,4,NA,8,70,30,50,0,150
+310026,Elements of Textile Processing,,Aug-2011,1,3,0,2,NA,5,70,30,50,0,150
+310027,Elements of Textile Technology,,Aug-2011,1,3,0,2,NA,5,70,30,50,0,150
+310029,Engineering Drawing,,Aug-2011,1,2,0,4,NA,6,70,30,50,0,150
+310030,Engineering Mechanics,,Aug-2011,1,3,0,2,NA,5,70,30,50,0,150
+310031,Essentials of Environment and Seismic Engineering,,Aug-2011,1,3,0,0,NA,3,70,30,0,0,100
+310032,First Aid & Home Nursing,,Aug-2011,1,2,0,2,NA,4,70,30,50,0,150
+310033,Fundamental of Electronics,,Aug-2011,1,3,0,2,NA,5,70,30,50,0,150
+310034,Mathematics - I,,Aug-2011,1,4,0,0,NA,4,70,30,0,0,100
+310035,Personality Development & Communication Skills,,Aug-2011,1,2,0,2,NA,4,70,30,50,0,150
+310036,Physical Analytical and Inorganic Chemistry,,Aug-2011,1,3,0,2,NA,5,70,30,50,0,150
+310037,Principles And Practice of Accounting,,Aug-2011,1,4,0,2,NA,6,70,30,50,0,150
+310038,Principles of Economics I,,Aug-2011,1,4,0,2,NA,6,70,30,50,0,150
+310039,Textile Science,,Aug-2011,1,2,0,2,NA,4,70,30,50,0,150
+310041,Engineering Measurements - I,,Aug-2011,1,0,0,2,NA,2,0,0,100,0,100
+310042,Office Automation,,Aug-2011,1,0,0,4,NA,4,0,0,100,0,100
+310043,Building Drawing,,Aug-2011,1,0,0,6,NA,3,0,0,100,0,100
+310044,Model Making,,Aug-2011,1,0,0,4,NA,2,0,0,100,0,100
+310045,Object Drawing,,Aug-2011,1,1,0,6,NA,4,70,30,50,0,150
+310046,Sketching And Drawing,,Aug-2011,1,1,0,6,NA,4,70,30,50,0,150
+310047,Computer Application - I,,Aug-2011,1,1,0,6,NA,4,70,30,50,0,150
+310048,Arts And Crafts,,Aug-2011,1,0,0,6,NA,3,0,0,100,0,100
+310049,Workshop,,Aug-2011,1,0,0,4,NA,4,0,0,100,0,100
+320016,Programming In C,,Aug-2011,1,2,0,4,NA,6,70,30,50,0,150
+310049,Workshop,Compulsory,Aug-2011,2,0,0,4,NA,4,0,0,100,0,100
+320001,Mathematics-II,Compulsory,Aug-2011,2,3,0,0,NA,3,70,30,0,0,100
+320002,Applied Science - II (CHEMISTRY),Compulsory,Aug-2011,2,2,0,0,NA,2,70,30,0,0,100
+320003,Elements of Mechanical Engineering,Compulsory,Aug-2011,2,2,0,2,NA,4,70,30,50,0,150
+320004,Fundamentals of Electrical Engineering,Compulsory,Aug-2011,2,3,0,2,NA,5,70,30,50,0,150
+320005,Non Conventional Energy Sources,Compulsory,Aug-2011,2,3,0,0,NA,3,70,30,0,0,100
+320006,Civil Engg. Drawing,Compulsory,Aug-2011,2,2,0,6,NA,8,70,30,50,0,150
+320007,Elements of Civil Engineering,Compulsory,Aug-2011,2,2,0,2,NA,4,70,30,50,0,150
+320008,Mechanical Drafting,Compulsory,Aug-2011,2,2,0,6,NA,8,70,30,50,0,150
+320009,Electrical Circuit,Compulsory,Aug-2011,2,4,0,4,NA,8,70,30,50,0,150
+320010,Theory of Machine & Strength of Material,Compulsory,Aug-2011,2,4,0,2,NA,6,70,30,50,0,150
+320011,Organic Chemistry,Compulsory,Aug-2011,2,3,0,2,NA,5,70,30,50,0,150
+320012,Chemical Engineering Material,Compulsory,Aug-2011,2,2,0,0,NA,2,70,30,0,0,100
+320013,Mechanical Operation (CEO- I),Compulsory,Aug-2011,2,3,0,4,NA,7,70,30,50,0,150
+320014,Text Generation - I,Compulsory,Aug-2011,2,2,0,2,NA,4,70,30,50,0,150
+320015,Mechanical Structure & Piping Drafting,Compulsory,Aug-2011,2,2,0,4,NA,6,70,30,50,0,150
+320016,Programming In C,Compulsory,Aug-2011,2,2,0,4,NA,6,70,30,50,0,150
+320017,Electronic Devices And Circuits - I,Compulsory,Aug-2011,2,3,0,4,NA,7,70,30,50,0,150
+320018,Ceramic Art,Compulsory,Aug-2011,2,1,0,4,NA,5,70,30,50,0,150
+320019,Elements of Electrical & Mechanical For Textile,Compulsory,Aug-2011,2,4,0,4,NA,8,70,30,50,0,150
+320021,Fiber Technology,Compulsory,Aug-2011,2,3,0,0,NA,3,70,30,0,0,100
+320022,Fiber Science,Compulsory,Aug-2011,2,4,0,0,NA,4,70,30,0,0,100
+320023,Introduction To Mining & Geology,Compulsory,Aug-2011,2,3,0,0,NA,3,70,30,0,0,100
+320024,Communication Skills - II,Compulsory,Aug-2011,2,4,0,0,NA,2,70,30,0,0,100
+320027,Textile Process - I,Compulsory,Aug-2011,2,3,0,2,NA,5,70,30,50,0,150
+320038,Composition,Compulsory,Aug-2011,2,1,0,6,NA,7,70,30,50,0,150
+320042,Business Communication II,Compulsory,Aug-2011,2,3,0,2,NA,4,70,30,50,0,150
+320056,Engineering Measurement - II,Compulsory,Aug-2011,2,0,0,2,NA,2,0,0,100,0,100
+320057,Computer Application,Compulsory,Aug-2011,2,0,0,4,NA,4,0,0,100,0,100
+320058,Electronic Practices,Compulsory,Aug-2011,2,0,0,4,NA,4,0,0,100,0,100
+320059,Mechatronics Work-shop,Compulsory,Aug-2011,2,0,0,4,NA,4,0,0,100,0,100
+330701,Data Structure Management,,Aug-2011,3,3,0,4,NA,7,70,30,50,0,150
+330702,Programming In C++,,Aug-2011,3,3,0,4,NA,7,70,30,50,0,150
+330703,Data Base Management System,,Aug-2011,3,3,0,4,NA,7,70,30,50,0,150
+331102,Digital Electronics,,Aug-2011,3,4,0,2,NA,6,70,30,50,0,150
+340701,Operating System,Compulsory,Aug-2011,4,3,0,2,NA,5,70,30,50,0,150
+340702,Computer Organization & Architecture,Compulsory,Aug-2011,4,4,0,0,NA,4,70,30,0,0,100
+340703,Visual Basic,Compulsory,Aug-2011,4,3,0,4,NA,7,70,30,50,0,150
+340704,Relational Data Base Management System,Compulsory,Aug-2011,4,3,0,4,NA,7,70,30,50,0,150
+340705,System Analysis Design,Compulsory,Aug-2011,4,3,0,4,NA,7,70,30,50,0,150
+2350701,Internet Application Programming,,Aug-2011,5,3,0,4,NA,7,70,30,20,30,150
+2350702,Micro Processor & Peripheral Chips,,Aug-2011,5,3,0,2,NA,5,70,30,20,30,150
+2350703,Java Programming,,Aug-2011,5,3,0,4,NA,7,70,30,20,30,150
+2350704,Computer Networking,,Aug-2011,5,3,0,2,NA,5,70,30,20,30,150
+2350705,Project - I,,Aug-2011,5,0,0,6,NA,6,0,0,20,80,100
+350701,Internet Application Programming,,Aug-2011,5,3,0,4,NA,7,70,30,20,30,150
+350702,Micro Processor & Peripheral Chips,,Aug-2011,5,3,0,2,NA,5,70,30,20,30,150
+350703,Java Programming,,Aug-2011,5,3,0,4,NA,7,70,30,20,30,150
+350704,Computer Networking,,Aug-2011,5,3,0,2,NA,5,70,30,20,30,150
+350705,Project - I,,Aug-2011,5,0,0,6,NA,6,0,0,20,80,100
+2360701,Php & My Sql,,Aug-2011,6,3,0,4,NA,7,70,30,20,30,150
+2360702,Database Programming With Vb.net,,Aug-2011,6,3,0,4,NA,7,70,30,20,30,150
+2360703,Computer Maintenance,,Aug-2011,6,3,0,2,NA,5,70,30,20,30,150
+2360704,Project - II,,Aug-2011,6,0,0,6,NA,6,0,0,20,80,100
+2360705,Computer Graphics And Multimedia,,Aug-2011,6,3,0,2,NA,5,70,30,20,30,150
+2360706,Programming With 8051,,Aug-2011,6,3,0,2,NA,5,70,30,20,30,150
+2360707,Data & Computer Communication,,Aug-2011,6,3,0,2,NA,5,70,30,20,30,150
+2360708,Network Operating System,,Aug-2011,6,3,0,2,NA,5,70,30,20,30,150
+360701,Php & My Sql,,Aug-2011,6,3,0,4,NA,7,70,30,20,30,150
+360702,Database Programming With Vb.net,,Aug-2011,6,3,0,4,NA,7,70,30,20,30,150
+360703,Computer Maintenance,,Aug-2011,6,3,0,2,NA,5,70,30,20,30,150
+360704,Project - II,,Aug-2011,6,0,0,6,NA,6,0,0,20,80,100
+360705,Computer Graphics And Multimedia,,Aug-2011,6,3,0,2,NA,5,70,30,20,30,150
+360706,Programming With 8051,,Aug-2011,6,3,0,2,NA,5,70,30,20,30,150
+360707,Data & Computer Communication,,Aug-2011,6,3,0,2,NA,5,70,30,20,30,150
+360708,Network Operating System,,Aug-2011,6,3,0,2,NA,5,70,30,20,30,150
+C4300001,Mathematics,Basic Sciences,Aug-2022,1,3,1,0,NA,4,70,30,0,0,100
+C4300002,Communication Skills in English,Humanities & Social Sciences,Aug-2022,1,2,0,2,NA,3,70,30,25,25,150
+C4300003,Environment and Sustainability,General Science,Aug-2022,1,3,0,0,NA,3,70,30,0,0,100
+C4300015,Sports and Yoga,Audit,Aug-2022,1,0,0,2,NA,0,0,0,50,0,50
+C4300018,Fundamentals of Electrical and Electronics,Engineering Sciences,Aug-2022,1,3,0,2,NA,4,70,30,25,25,150
+C4310701,Fundamentals of Computer,Program Core,Aug-2022,1,0,0,4,NA,2,0,0,25,25,50
+C4310702,Basic Computer Programming,Program Core,Aug-2022,1,3,0,4,NA,5,70,30,25,25,150
+C4300005,Physics,Basic Sciences,Aug-2022,2,3,0,2,NA,4,70,30,25,25,150
+C4300016,Indian Constitution,Audit,Aug-2022,2,2,0,0,NA,0,0,0,50,0,50
+C4311603,Static Web Page Design,Program Core,Aug-2022,2,0,0,4,NA,2,0,0,25,25,50
+C4320002,Engineering Mathematics,Basic Sciences,Aug-2022,2,3,1,0,NA,4,70,30,0,0,100
+C4320701,Electronic and Computer Workshop Practice,Engineering Sciences,Aug-2022,2,0,0,2,NA,1,0,0,25,25,50
+C4320702,Basic Object Oriented Programming,Program Core,Aug-2022,2,3,0,4,NA,5,70,30,25,25,150
+C4320703,Basics of Digital Electronics,Program Core,Aug-2022,2,3,0,2,NA,4,70,30,25,25,150
+4330001,Summer Internship-I,Summer Internship-1(2 Weeks) after sem-2,Aug-2022,3,0,0,2,NA,1,0,0,25,25,50
+4330701,Scripting Language -Python,Program Core,Aug-2022,3,3,0,4,NA,5,70,30,25,25,150
+4330702,Relational Database Management System,Program Core,Aug-2022,3,3,0,4,NA,5,70,30,25,25,150
+4330703,Basics of Operating System,Program Core,Aug-2022,3,3,0,2,NA,4,70,30,25,25,150
+4330704,Data Structures and Algorithms,Program Core,Aug-2022,3,3,0,4,NA,5,70,30,25,25,150
+4330705,Responsive Web Page Design,Program Core,Aug-2022,3,0,0,2,NA,1,0,0,25,25,50
+4300005,Physics,Basic Sciences,Feb-2022,2,3,0,2,NA,4,70,30,25,25,150
+4300016,Indian Constitution,Audit,Feb-2022,2,2,0,0,NA,0,0,0,50,0,50
+4311603,Static Web Page Design,Program Core,Feb-2022,2,0,0,4,NA,2,0,0,25,25,50
+4320002,Engineering Mathematics,Basic Sciences,Feb-2022,2,3,1,0,NA,4,70,30,0,0,100
+4320701,Electronic and Computer Workshop Practice,Engineering Sciences,Feb-2022,2,0,0,2,NA,1,0,0,25,25,50
+4320702,Basic Object Oriented Programming,Program Core,Feb-2022,2,3,0,4,NA,5,70,30,25,25,150
+4320703,Basics of Digital Electronics,Program Core,Feb-2022,2,3,0,2,NA,4,70,30,25,25,150
+4360701,Computer Maintenance and Troubleshooting,compulsory,Jan-2024,6,3,0,2,NA,4,70,30,25,25,150
+4360702,Basics of information Security,compulsory,Jan-2024,6,3,0,2,NA,4,70,30,25,25,150
+4360703,Fundamentals of IoT,compulsory,Jan-2024,6,3,0,2,NA,4,70,30,25,25,150
+4360704,Introduction to NO SQL,compulsory,Jan-2024,6,0,0,4,NA,2,0,0,25,25,50
+4360705,Network Forensics,Elective(Any one),Jan-2024,6,3,0,2,NA,4,70,30,25,25,150
+4360706,Software Testing,Elective(Any one),Jan-2024,6,3,0,2,NA,4,70,30,25,25,150
+4360707,Introduction to Data Analysis,Elective(Any one),Jan-2024,6,3,0,2,NA,4,70,30,25,25,150
+4360708,Introduction to Game Development,Elective(Any one),Jan-2024,6,3,0,2,NA,4,70,30,25,25,150
+4360709,Cloud Computing,Elective(Any one),Jan-2024,6,3,0,2,NA,4,70,30,25,25,150
+imb26_mg246,AI in Digital and Social media Marketing,Multidisciplinary Open Professional Electives Courses - I (MOOC),July 2026,4,3,0,0,NA,3,100,0,0,0,100
+noc26_cs143,Machine Learning (Ml) In Hindi,Professional Elective - II (MOOC),July 2026,4,4,0,0,NA,4,100,0,0,0,100
+noc26_cs144,Cyber Security and Privacy,Multidisciplinary Open Professional Electives Courses - I (MOOC),July 2026,4,3,0,0,NA,3,100,0,0,0,100
+noc26_cs150,Cloud Computing,Professional Elective - I (MOOC),July 2026,4,4,0,0,NA,4,100,0,0,0,100
+noc26_cs182,Artificial Intelligence: Foundations and Algorithms,Professional Elective - II (MOOC),July 2026,4,4,0,0,NA,4,100,0,0,0,100
+noc26_cs99,Computer Networks,Professional Elective - I (MOOC),July 2026,4,4,0,0,NA,4,100,0,0,0,100
+noc26_mg114,Entrepreneurship,Multidisciplinary Open Professional Electives Courses - I (MOOC),July 2026,4,3,0,0,NA,3,100,0,0,0,100
+nou26_cs21,Web Based Technologies and Multimedia Applications,Professional Elective - I (MOOC),July 2026,4,4,0,0,NA,4,100,0,0,0,100
+ini26_cs07,Data Science Using Python,Professional Elective - III (MOOC),July 2026,5,4,0,0,NA,4,100,0,0,0,100
+noc26_cs131,Software Testing,Professional Elective - III (MOOC),July 2026,5,4,0,0,NA,4,100,0,0,0,100
+noc26_cs153,Programming In Java,Professional Elective - III (MOOC),July 2026,5,4,0,0,NA,4,100,0,0,0,100
+noc26_hs252,The Science of Happiness and Wellbeing,Multidisciplinary Open Professional Electives Courses - II (MOOC),July 2026,5,3,0,0,NA,3,100,0,0,0,100
+nou26_ge87,Android Mobile Application Development,Professional Elective - IV (MOOC),July 2026,5,4,0,0,NA,4,100,0,0,0,100
+ntr26_ed149,Internet of Things: Design Concepts and Use Cases,Multidisciplinary Open Professional Electives Courses - II (MOOC),July 2026,5,3,0,0,NA,3,100,0,0,0,100
+ntr26_ed169,Fundamentals of Business Analytics,Multidisciplinary Open Professional Electives Courses - II (MOOC),July 2026,5,3,0,0,NA,3,100,0,0,0,100
+4300021,Entrepreneurship and Start-ups,compulsory,July-2023,5,3,0,0,NA,3,70,30,0,0,100
+4350701,Computer Organization and Architecture,compulsory,July-2023,5,3,0,2,NA,4,70,30,25,25,150
+4350702,Introduction to Machine Learning,compulsory,July-2023,5,3,0,4,NA,5,70,30,25,25,150
+4350703,Mobile Application Development using Android,compulsory,July-2023,5,0,0,4,NA,2,0,0,25,25,50
+4350704,Internship Project,compulsory,July-2023,5,0,0,6,NA,3,0,0,50,50,100
+4350705,Fundamentals of Artificial Intelligence,Elective(Any one),July-2023,5,3,0,2,NA,4,70,30,25,25,150
+4350706,Advance Computer Network,Elective(Any one),July-2023,5,3,0,2,NA,4,70,30,25,25,150
+4350707,Multimedia Technologies,Elective(Any one),July-2023,5,3,0,2,NA,4,70,30,25,25,150
+4350708,Web Based Java Programming,Elective(Any one),July-2023,5,3,0,2,NA,4,70,30,25,25,150
+4340001,Essence of Indian Knowledge and Tradition,Elective(Any one),March-2023,4,2,0,0,NA,2,70,30,25,25,150
+4340002,Contributor Personality Development,Elective(Any one),March-2023,4,2,0,0,NA,2,70,30,25,25,150
+4340003,Integrated Personality Development Course,Elective(Any one),March-2023,4,2,0,0,NA,2,70,30,25,25,150
+4340701,Advanced Object Oriented Programming,compulsory,March-2023,4,3,0,4,NA,5,70,30,25,25,150
+4340702,Introduction to Software Engineering,compulsory,March-2023,4,3,0,2,NA,4,70,30,25,25,150
+4340703,Computer Networking,compulsory,March-2023,4,3,0,2,NA,4,70,30,25,25,150
+4340704,Introduction to Web Development,compulsory,March-2023,4,3,0,4,NA,5,70,30,25,25,150
+4340705,Modern Practical Tools,compulsory,March-2023,4,0,0,2,NA,1,0,0,25,25,50
+3300001,Basic Mathematics,,Sept-2012,1,2,2,0,NA,4,70,30,0,0,100
+3300002,English,,Sept-2012,1,3,2,0,NA,5,70,30,30,20,150
+3300003,Environment Conservation And Hazard Management,,Sept-2012,1,4,0,0,NA,4,70,30,0,0,100
+3310701,Computer Programming,,Sept-2012,1,3,0,4,NA,7,70,30,60,40,200
+3310702,Fundamental Of Digital Electronics,,Sept-2012,1,3,0,2,NA,5,70,30,30,20,150
+3310703,Fundamental Of Computer Application,,Sept-2012,1,0,0,4,NA,4,0,0,60,40,100
+1990001,Contributor Personality Development,Elective,Sept-2012,2,4,0,0,NA,4,70,30,30,20,150
+3300005,BASIC PHYSICS (GROUP-2),Compulsory,Sept-2012,2,3,0,2,NA,5,70,30,30,20,150
+3320002,ADVANCED MATHEMATICS (GROUP-1),Compulsory,Sept-2012,2,2,2,0,NA,4,70,30,0,0,100
+3320701,Basic Electronics,Compulsory,Sept-2012,2,3,0,2,NA,5,70,30,30,20,150
+3320702,Advanced Computer Programming,Compulsory,Sept-2012,2,3,0,4,NA,7,70,30,60,40,200
+3320703,Static Web Page Designing,Compulsory,Sept-2012,2,0,0,4,NA,4,0,0,60,40,100
+3990001,Contributor Personality Development,Elective,Sept-2012,2,4,0,0,NA,4,70,30,30,20,150
+3330701,Operating System,,Sept-2012,3,3,0,2,NA,5,70,30,30,20,150
+3330702,Programming In C++,,Sept-2012,3,3,2,2,NA,7,70,30,30,20,150
+3330703,Database Management System,,Sept-2012,3,3,2,2,NA,7,70,30,30,20,150
+3330704,Data Structure,,Sept-2012,3,3,2,2,NA,7,70,30,30,20,150
+3330705,Microprocessor & Assembly Language Programming,,Sept-2012,3,3,0,2,NA,5,70,30,30,20,150
+3340701,Advanced Database Management System,Compulsory,Sept-2012,4,3,0,4,NA,7,70,30,60,40,200
+3340702,Computer Networks,Compulsory,Sept-2012,4,3,0,2,NA,5,70,30,30,20,150
+3340704,.net Programming,Compulsory,Sept-2012,4,3,0,4,NA,7,70,30,60,40,200
+3340705,Computer Organization And Architecture,Compulsory,Sept-2012,4,3,0,0,NA,3,70,30,0,0,100
+3340706,Web Development Tools,Compulsory,Sept-2012,4,0,0,4,NA,4,0,0,60,40,100
+3341603,Fundamentals Of Software Development,Compulsory,Sept-2012,4,3,0,2,NA,5,70,30,30,20,150
+3350701,Computer Maintenance And Trouble Shooting,,Sept-2012,5,3,0,2,NA,5,70,30,30,20,150
+3350702,Dynamic Web Page Development,,Sept-2012,5,3,0,4,NA,7,70,30,60,40,200
+3350703,Java Programming,,Sept-2012,5,3,0,4,NA,7,70,30,60,40,200
+3350704,Computer And Network Security,,Sept-2012,5,3,0,4,NA,7,70,30,60,40,200
+3350705,Multimedia And Animation Techniques,,Sept-2012,5,3,0,4,NA,7,70,30,60,40,200
+3350706,PROJECT-I,,Sept-2012,5,0,0,4,NA,4,0,0,60,40,100
+3360701,Advance Java Programming,Compulsory,Sept-2012,6,3,0,4,NA,7,70,30,60,40,200
+3360702,Professional Practices Using Database,Compulsory,Sept-2012,6,0,0,4,NA,4,0,0,60,40,100
+3360703,Networking Management & Administration,Elective,Sept-2012,6,3,0,4,NA,7,70,30,60,40,200
+3360704,Mobile Computing And Application Development,Elective,Sept-2012,6,3,0,4,NA,7,70,30,60,40,200
+3360705,Dynamic Webpage With Scripting Anguage,Elective,Sept-2012,6,3,0,4,NA,7,70,30,60,40,200
+3360706,Advanced Web Technology,Elective,Sept-2012,6,3,0,4,NA,7,70,30,60,40,200
+3360707,PROJECT-II,Compulsory,Sept-2012,6,0,0,6,NA,6,0,0,90,60,150
+4300001,Mathematics,Basic Sciences,Sept-2021,1,3,1,0,NA,4,70,30,0,0,100
+4300002,Communication Skills in English,Humanities & Social Sciences,Sept-2021,1,2,0,2,NA,3,70,30,25,25,150
+4300003,Environment and Sustainability,General Science,Sept-2021,1,3,0,0,NA,3,70,30,0,0,100
+4300015,Sports and Yoga,Audit,Sept-2021,1,0,0,2,NA,0,0,0,50,0,50
+4300018,Fundamentals of Electrical and Electronics,Engineering Sciences,Sept-2021,1,3,0,2,NA,4,70,30,25,25,150
+4310701,Fundamentals of Computer,Program Core,Sept-2021,1,0,0,4,NA,2,0,0,25,25,50
+4310702,Basic Computer Programming,Program Core,Sept-2021,1,3,0,4,NA,5,70,30,25,25,150
+4310002,Induction Program,Mandatory,Sept-2022,1,0,0,0,NA,0,0,0,0,0,0
