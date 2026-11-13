@@ -21,7 +21,7 @@ Notes on the portal data: the 2011 scheme's Semester 1-2 lists are the common fi
 
 ## PDF backup
 
-Offline copies of the syllabus PDFs are kept in a Google Drive folder, organised by scheme. The Drive link will be added here when the PDF backup is complete.
+Offline copies of the syllabus PDFs are kept in a Google Drive folder, organised by scheme: [GTU Diploma Computer Syllabus PDFs](https://drive.google.com/drive/folders/1FrTiJSzsBwh59inZDvm1reqdcfOh2gyC). 269 PDF files are archived there, covering 271 of the 294 subject entries (two codes, 310049 and 320016, repeat across semesters and share one PDF). 23 codes have no PDF on GTU's server, so for those only the scheme data in this archive is preserved: the 15 MOOC courses (imb26-mg246, ini26-cs07, noc26-cs131, noc26-cs143, noc26-cs144, noc26-cs150, noc26-cs153, noc26-cs182, noc26-cs99, noc26-hs252, noc26-mg114, nou26-cs21, nou26-ge87, ntr26-ed149, ntr26-ed169), 5 subjects of the 2011 scheme (310001, 310014, 310047, 320024, 350705), the two 2012-scheme project subjects (3350706, 3360707), and DI01000151 of the DI scheme.
 
 ## Columns
 
